@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Visitor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81a73e33-7204-4aef-8f88-4f70a2a8350f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Visitors')</defaultValue>
+      <description></description>
+      <id>93610751-9640-4653-b56d-0dad2e3dee8a</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

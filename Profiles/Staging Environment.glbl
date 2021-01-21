@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Stg Env Url</description>
+      <initValue>'https://ovmsstg.orioninc.com'</initValue>
+      <name>OVMSSTGUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>UserName Of Super Admin</description>
+      <initValue>'superadmin-stg'</initValue>
+      <name>SA_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password of Super Admin</description>
+      <initValue>'Password@2'</initValue>
+      <name>SA_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>UserName of Security Guard</description>
+      <initValue>'security-stg'</initValue>
+      <name>SG_UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password of Security Guard</description>
+      <initValue>'stageSG1!'</initValue>
+      <name>SG_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin UserName</description>
+      <initValue>'admin-stg'</initValue>
+      <name>Ad_UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin Password</description>
+      <initValue>'Password@2'</initValue>
+      <name>Ad_Password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
